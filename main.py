@@ -88,11 +88,12 @@ def print_table(cursor, tablename):
 	cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
 	print(cursor.fetchall())
 
-	# cursor.execute("SELECT * FROM {};".format(tablename))
-	# print(len(cursor.fetchall()))
+	'''Fetch All for counting time consumed'''
+	cursor.execute("SELECT * FROM {};".format(tablename))
+	print(len(cursor.fetchall()))
 
-	'''Faster than len(cursor.fetchall())'''
-	print(cursor.execute("SELECT COUNT(*) FROM {}".format(tablename)).fetchone()[0])
+	'''Faster for count than len(cursor.fetchall())'''
+	# print(cursor.execute("SELECT COUNT(*) FROM {}".format(tablename)).fetchone()[0])
 	print("--- %s seconds ---" % (time.time() - start_time))
 
 

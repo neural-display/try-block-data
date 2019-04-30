@@ -1,0 +1,155 @@
+30.04.19 14:37:29 (+0700) <main> /usr/src/app
+30.04.19 14:37:29 (+0700) <main> --- 0.21287870407104492 seconds ---
+30.04.19 14:37:29 (+0700) <main> /usr/src/app/test.db
+30.04.19 14:37:29 (+0700) <main> test.db database successfully opened
+30.04.19 14:37:29 (+0700) <main> version: ('3.16.2',)
+30.04.19 14:37:29 (+0700) <main> Created table succesfully
+30.04.19 14:37:29 (+0700) <main> [('data',)]
+30.04.19 14:37:29 (+0700) <main> 
+30.04.19 14:37:29 (+0700) <main> Requet date: [1, 2]
+30.04.19 14:37:29 (+0700) <main> 
+30.04.19 14:37:29 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:37:29 (+0700) <main> 
+30.04.19 14:37:33 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=1&days=2
+30.04.19 14:37:33 (+0700) <main> 200
+30.04.19 14:37:33 (+0700) <main> fetch_data --- 3.977994203567505 seconds ---
+30.04.19 14:37:33 (+0700) <main> insert_data --- 0.2713336944580078 seconds ---
+30.04.19 14:37:33 (+0700) <main> 
+30.04.19 14:37:33 (+0700) <main> Requet date: [3, 4]
+30.04.19 14:37:33 (+0700) <main> 
+30.04.19 14:37:33 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:37:33 (+0700) <main> 
+30.04.19 14:37:37 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=3&days=4
+30.04.19 14:37:37 (+0700) <main> 200
+30.04.19 14:37:37 (+0700) <main> fetch_data --- 3.51405930519104 seconds ---
+30.04.19 14:37:37 (+0700) <main> insert_data --- 0.23471951484680176 seconds ---
+30.04.19 14:37:37 (+0700) <main> 
+30.04.19 14:37:37 (+0700) <main> Requet date: [5, 6]
+30.04.19 14:37:37 (+0700) <main> 
+30.04.19 14:37:37 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:37:37 (+0700) <main> 
+30.04.19 14:37:42 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=5&days=6
+30.04.19 14:37:42 (+0700) <main> 200
+30.04.19 14:37:42 (+0700) <main> fetch_data --- 5.309568405151367 seconds ---
+30.04.19 14:37:43 (+0700) <main> insert_data --- 0.2369670867919922 seconds ---
+30.04.19 14:37:43 (+0700) <main> 
+30.04.19 14:37:43 (+0700) <main> Requet date: [7, 8]
+30.04.19 14:37:43 (+0700) <main> 
+30.04.19 14:37:43 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:37:43 (+0700) <main> 
+30.04.19 14:37:46 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=7&days=8
+30.04.19 14:37:46 (+0700) <main> 200
+30.04.19 14:37:47 (+0700) <main> fetch_data --- 3.9008688926696777 seconds ---
+30.04.19 14:37:47 (+0700) <main> insert_data --- 0.24383282661437988 seconds ---
+30.04.19 14:37:47 (+0700) <main> 
+30.04.19 14:37:47 (+0700) <main> Requet date: [9, 10]
+30.04.19 14:37:47 (+0700) <main> 
+30.04.19 14:37:47 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:37:47 (+0700) <main> 
+30.04.19 14:37:52 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=9&days=10
+30.04.19 14:37:52 (+0700) <main> 200
+30.04.19 14:37:52 (+0700) <main> fetch_data --- 5.116035461425781 seconds ---
+30.04.19 14:37:52 (+0700) <main> insert_data --- 0.24012207984924316 seconds ---
+30.04.19 14:37:52 (+0700) <main> 
+30.04.19 14:37:52 (+0700) <main> Requet date: [11, 12]
+30.04.19 14:37:52 (+0700) <main> 
+30.04.19 14:37:52 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:37:52 (+0700) <main> 
+30.04.19 14:37:56 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=11&days=12
+30.04.19 14:37:56 (+0700) <main> 200
+30.04.19 14:37:56 (+0700) <main> fetch_data --- 3.479506015777588 seconds ---
+30.04.19 14:37:56 (+0700) <main> insert_data --- 0.24106574058532715 seconds ---
+30.04.19 14:37:56 (+0700) <main> 
+30.04.19 14:37:56 (+0700) <main> Requet date: [13, 14]
+30.04.19 14:37:56 (+0700) <main> 
+30.04.19 14:37:56 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:37:56 (+0700) <main> 
+30.04.19 14:38:00 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=13&days=14
+30.04.19 14:38:00 (+0700) <main> 200
+30.04.19 14:38:01 (+0700) <main> fetch_data --- 4.642713308334351 seconds ---
+30.04.19 14:38:01 (+0700) <main> insert_data --- 0.2416987419128418 seconds ---
+30.04.19 14:38:01 (+0700) <main> 
+30.04.19 14:38:01 (+0700) <main> Requet date: [15, 16]
+30.04.19 14:38:01 (+0700) <main> 
+30.04.19 14:38:01 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:38:01 (+0700) <main> 
+30.04.19 14:38:04 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=15&days=16
+30.04.19 14:38:04 (+0700) <main> 200
+30.04.19 14:38:04 (+0700) <main> fetch_data --- 3.38301420211792 seconds ---
+30.04.19 14:38:04 (+0700) <main> insert_data --- 0.24344968795776367 seconds ---
+30.04.19 14:38:04 (+0700) <main> 
+30.04.19 14:38:04 (+0700) <main> Requet date: [17, 18]
+30.04.19 14:38:04 (+0700) <main> 
+30.04.19 14:38:04 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:38:04 (+0700) <main> 
+30.04.19 14:38:08 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=17&days=18
+30.04.19 14:38:08 (+0700) <main> 200
+30.04.19 14:38:08 (+0700) <main> fetch_data --- 3.468045711517334 seconds ---
+30.04.19 14:38:08 (+0700) <main> insert_data --- 0.24340081214904785 seconds ---
+30.04.19 14:38:08 (+0700) <main> 
+30.04.19 14:38:08 (+0700) <main> Requet date: [19, 20]
+30.04.19 14:38:08 (+0700) <main> 
+30.04.19 14:38:08 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:38:08 (+0700) <main> 
+30.04.19 14:38:12 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=19&days=20
+30.04.19 14:38:12 (+0700) <main> 200
+30.04.19 14:38:12 (+0700) <main> fetch_data --- 3.962620258331299 seconds ---
+30.04.19 14:38:12 (+0700) <main> insert_data --- 0.24406933784484863 seconds ---
+30.04.19 14:38:12 (+0700) <main> 
+30.04.19 14:38:12 (+0700) <main> Requet date: [21, 22]
+30.04.19 14:38:12 (+0700) <main> 
+30.04.19 14:38:12 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:38:12 (+0700) <main> 
+30.04.19 14:38:15 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=21&days=22
+30.04.19 14:38:15 (+0700) <main> 200
+30.04.19 14:38:15 (+0700) <main> fetch_data --- 2.8995110988616943 seconds ---
+30.04.19 14:38:16 (+0700) <main> insert_data --- 0.3569316864013672 seconds ---
+30.04.19 14:38:16 (+0700) <main> 
+30.04.19 14:38:16 (+0700) <main> Requet date: [23, 24]
+30.04.19 14:38:16 (+0700) <main> 
+30.04.19 14:38:16 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:38:16 (+0700) <main> 
+30.04.19 14:38:19 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=23&days=24
+30.04.19 14:38:19 (+0700) <main> 200
+30.04.19 14:38:19 (+0700) <main> fetch_data --- 3.61517333984375 seconds ---
+30.04.19 14:38:20 (+0700) <main> insert_data --- 0.35495519638061523 seconds ---
+30.04.19 14:38:20 (+0700) <main> 
+30.04.19 14:38:20 (+0700) <main> Requet date: [25, 26]
+30.04.19 14:38:20 (+0700) <main> 
+30.04.19 14:38:20 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:38:20 (+0700) <main> 
+30.04.19 14:38:24 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=25&days=26
+30.04.19 14:38:24 (+0700) <main> 200
+30.04.19 14:38:24 (+0700) <main> fetch_data --- 4.449509620666504 seconds ---
+30.04.19 14:38:24 (+0700) <main> insert_data --- 0.2461700439453125 seconds ---
+30.04.19 14:38:24 (+0700) <main> 
+30.04.19 14:38:24 (+0700) <main> Requet date: [27, 28]
+30.04.19 14:38:24 (+0700) <main> 
+30.04.19 14:38:24 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:38:24 (+0700) <main> 
+30.04.19 14:38:27 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=27&days=28
+30.04.19 14:38:27 (+0700) <main> 200
+30.04.19 14:38:28 (+0700) <main> fetch_data --- 3.1904118061065674 seconds ---
+30.04.19 14:38:28 (+0700) <main> insert_data --- 0.24334502220153809 seconds ---
+30.04.19 14:38:28 (+0700) <main> 
+30.04.19 14:38:28 (+0700) <main> Requet date: [29, 30]
+30.04.19 14:38:28 (+0700) <main> 
+30.04.19 14:38:28 (+0700) <main> Fetch Schedule Blocks At Date 
+30.04.19 14:38:28 (+0700) <main> 
+30.04.19 14:38:31 (+0700) <main> https://neuraldisplay-admin-api.herokuapp.com/test/blocks?days=29&days=30
+30.04.19 14:38:31 (+0700) <main> 200
+30.04.19 14:38:31 (+0700) <main> fetch_data --- 3.210153102874756 seconds ---
+30.04.19 14:38:31 (+0700) <main> insert_data --- 0.2365267276763916 seconds ---
+30.04.19 14:38:31 (+0700) <main> Recurrence request --- 62.24614238739014 seconds ---
+30.04.19 14:38:31 (+0700) <main> 
+30.04.19 14:38:31 (+0700) <main> Get Schedule Blocks At Date: 22
+30.04.19 14:38:31 (+0700) <main> 2880
+30.04.19 14:38:31 (+0700) <main> get_schedule --- 0.06525325775146484 seconds ---
+30.04.19 14:38:31 (+0700) <main> 
+30.04.19 14:38:31 (+0700) <main> ------- Check and print all metrics again -------
+30.04.19 14:38:31 (+0700) <main> 
+30.04.19 14:38:31 (+0700) <main> Entire database contents:
+30.04.19 14:38:31 (+0700) <main> 
+30.04.19 14:38:31 (+0700) <main> [('data',)]
+30.04.19 14:38:31 (+0700) <main> 92160
+30.04.19 14:38:31 (+0700) <main> --- 0.023857831954956055 seconds ---
